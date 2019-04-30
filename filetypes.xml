@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="devel_jlface" type="PLAIN_TEXT" />
       <mapping pattern="shadow" type="PLAIN_TEXT" />
+      <mapping ext="qm" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
